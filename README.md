@@ -15,6 +15,7 @@ bun dev
 ```
 Open this to see the website live: 
 www.slovaautomations.com 
+or
 [slova-automation-agency.vercel.app](https://slova-automation-agency.vercel.app/)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
