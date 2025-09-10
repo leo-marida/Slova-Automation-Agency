@@ -13,7 +13,9 @@ pnpm dev
 # or
 bun dev
 ```
-Open this to see the website live: [slova-automation-agency.vercel.app](https://slova-automation-agency.vercel.app/)
+Open this to see the website live: 
+www.slovaautomations.com 
+[slova-automation-agency.vercel.app](https://slova-automation-agency.vercel.app/)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
