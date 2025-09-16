@@ -69,7 +69,7 @@ export default function Home() {
       <AnimatedSection><SolutionSection /></AnimatedSection>
       <AnimatedSection><HowItWorksSection /></AnimatedSection>
       <AnimatedSection><WhyUsSection /></AnimatedSection>
-      <AnimatedSection><ShowcaseSection /></AnimatedSection> 
+      {/* <AnimatedSection><ShowcaseSection /></AnimatedSection>  */}
       <AnimatedSection><ServicesSection /></AnimatedSection>
       <AnimatedSection><AboutSection /></AnimatedSection>
       <FinalCTASection />

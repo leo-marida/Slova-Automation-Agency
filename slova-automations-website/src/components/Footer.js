@@ -27,7 +27,7 @@ const Footer = () => {
             {/* Step 2: Replace all internal <a> tags with <Link> */}
             <li><Link href="/#services">Services</Link></li>
             <li><Link href="/#why-us">Why Us?</Link></li>
-            <li><Link href="/#case-studies">Case Studies</Link></li>
+            {/* <li><Link href="/#case-studies">Case Studies</Link></li> */}
             <li><Link href="/#about">About</Link></li>
             <li><Link href="/privacy">Privacy Policy</Link></li>
             <li><Link href="/terms">Terms of Use</Link></li>
